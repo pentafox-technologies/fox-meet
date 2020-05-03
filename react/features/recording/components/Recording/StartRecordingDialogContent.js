@@ -26,7 +26,7 @@ import { authorizeDropbox, updateDropboxToken } from '../../../dropbox';
 import { RECORDING_TYPES } from '../../constants';
 import { getRecordingDurationEstimation } from '../../functions';
 
-import { DROPBOX_LOGO, ICON_SHARE, JITSI_LOGO } from './styles';
+import { DROPBOX_LOGO, ICON_SHARE, MEET_LOGO } from './styles';
 
 
 type Props = {
@@ -249,7 +249,7 @@ class StartRecordingDialogContent extends Component<Props> {
                 <Container className = 'recording-icon-container'>
                     <Image
                         className = 'recording-icon'
-                        src = { JITSI_LOGO }
+                        src = { MEET_LOGO }
                         style = { styles.recordingIcon } />
                 </Container>
                 <Text

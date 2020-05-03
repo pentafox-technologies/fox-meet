@@ -1,7 +1,7 @@
 {
-  "name": "jitsi-meet",
-  "version": "0.0.0",
-  "description": "A sample app for the Jitsi Videobridge",
+  "name": "pentafox-meet",
+  "version": "0.0.1",
+  "description": "An app for the Pentafox Videobridge",
   "repository": {
     "type": "git",
     "url": "git://github.com/jitsi/jitsi-meet"

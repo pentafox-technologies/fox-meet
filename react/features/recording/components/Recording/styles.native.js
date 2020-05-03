@@ -11,7 +11,7 @@ export const DROPBOX_LOGO = require('../../../../../images/dropboxLogo_square.pn
 
 export const ICON_SHARE = require('../../../../../images/icon-users.png');
 
-export const JITSI_LOGO = require('../../../../../images/jitsiLogo_square.png');
+export const MEET_LOGO = require('../../../../../images/logo_square.png');
 
 /**
  * Color schemed styles for the @{code StartRecordingDialogContent} component.
