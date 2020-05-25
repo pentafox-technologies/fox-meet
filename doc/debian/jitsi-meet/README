@@ -1,9 +1,9 @@
-Jitsi Meet
+Fox Meet
 
 ====
 
 A WebRTC-powered multi-user videochat. For a live demo, check out either
-https://meet.estos.de/ or https://meet.jit.si/.
+https://meet.pentafox.in/
 
 Built using colibri.js[0] and strophe.jingle[1], powered by the jitsi-videobridge[2]
 
